@@ -1,3 +1,5 @@
+[Take a look at the default starter website here](https://front-end-default-starter.netlify.app/)
+
 Inspired by John [Refer John's starter here](https://github.com/john-smilga/default-starter)
 
 - DEV SERVER - When working with HTML CSS we can use `Preview on Web Server` to spinup live server. To run the server use, `CTRL+SHIFT+L`
